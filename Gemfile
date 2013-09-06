@@ -23,7 +23,7 @@ end
 gem 'jquery-rails'
 
 group :development do
-	gem 'sqlite3' , '1.3.7'
+	gem 'sqlite3'
 end
 group :production do
 	gem 'pg', '0.15.1'
