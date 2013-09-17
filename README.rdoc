@@ -3,3 +3,6 @@ Heroku Link: http://davidibarrahomework1.herokuapp.com/
 Had problems deploying to heroku. 'Git push heroku master' failed with some gems that could not be installed (sqlite). The work around was to delete the sqlite gem in the gemfile.
 
 This was fun!
+
+Homework 2:
+Had problems with getting the image to show up. Worked with a friend who had much the same code (put the image in the same directory and used the same html tag for images) but still couldn't get the image to show up for a while.
